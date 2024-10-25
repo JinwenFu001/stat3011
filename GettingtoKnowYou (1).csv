@@ -1,0 +1,337 @@
+Gender,SeasonFav,Handwritting,Year,College,Domestic,FromMinnesota,OnCampus,Shower,Movie.Number,BarberSalon.Money,Donation,SocialMediaFav,SocialMediaHours,ExerciseHours,StudyHours,Sleep.Weekday,SleepWeekend,MarijuanaLegal,GPAHighSchool,GPACollege,Tattoos,Ticket.Driving,Text.Driving,Chocolate
+Female,Summer,Right,Freshman,Others,U.S.,Yes,Yes,Evening,0,90,0,TikTok,1,1,5,7,8,Not sure,4,4,0,0,No,56
+Male,Fall,Left,Sophomore,College of Biological Sciences (CBS),U.S.,No,Yes,Morning,0,32,80,TikTok,4,2,2,7,8,Yes,3.92,3.045,0,0,Yes,42
+Female,Spring,Right,Junior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Evening,1,100,300,TikTok,9,1,12,4,10,No,3.5,3.187,2,1,No,51
+Male,Winter,Right,Freshman,College of Science of Engineering (CSE),U.S.,Yes,Yes,Morning,0,20,0,YouTube,2,1,8,7,8,Yes,3.975,3.524,0,0,No,27
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Depends,1,60,0,TikTok,6,2,4,6,8,No,4,3.889,0,0,No,52
+Female,Fall,Right,Freshman,College of Science of Engineering (CSE),U.S.,No,Yes,Evening,0,15,200,YouTube,2,2,12,6.5,8,No,4,4,0,0,No,37
+Female,Spring,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Evening,0,0,25,TikTok,5,3,5,6,8,Not sure,4,2.33,0,-1,No,75
+Female,Fall,Right,Others (PSEO or Post graduate),"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,No,Evening,0,15,0,TikTok,3,0,6,6,7,Yes,3.996,4,0,-1,No,50
+Male,Spring,Right,Senior,College of Biological Sciences (CBS),U.S.,Yes,Yes,Morning,0,50,100,Twitter,2,1,4,7,7,Not sure,3.983,3.841,0,2,Yes,34
+Male,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Morning,2,40,1200,Instagram,3,1.5,5,6,10,Not sure,3.5,4,0,0,No,42
+Female,Fall,Right,Sophomore,College of Science of Engineering (CSE),U.S.,Yes,No,Depends,0,90,300,YouTube,1.5,1,7,3,3,Yes,4,3.7,0,0,No,40
+Female,Fall,Left,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Evening,0,65,0,TikTok,2,1,3,7,8,Yes,4,3.98,0,0,No,57
+Female,Summer,Right,Freshman,College of Liberal Arts (CLA),International,No,Yes,Depends,2,40,0,Instagram,4,1,3,8,9,No,3.78,3.84,0,-1,No,80
+Female,Fall,Right,Junior,Others,U.S.,Yes,No,Evening,1,0,200,TikTok,5,1,5,9,9,Not sure,3.7,0,0,1,No,114
+Female,Fall,Right,Freshman,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Depends,0,0,100,Others,3,1,4,7,8,Yes,3.7,0,0,0,No,35
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,Evening,0,30,10,Others,0.5,1,5,6,8,Not sure,4,3.9,0,0,No,42
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,No,Evening,1,175,50,TikTok,7,1,8,8,8,Not sure,3.7,4,0,1,No,35
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Depends,1,40,10,TikTok,1,0.5,4,7,9,Yes,3.8,3.6,0,0,No,53
+Female,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,0,40,20,TikTok,4,1,4,9,9,Yes,3.7,3.2,0,0,Yes,65
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Depends,1,40,0,TikTok,5,0,7,8,8,Yes,3.96,3.97,0,0,No,66
+Male,Summer,Right,Freshman,College of Biological Sciences (CBS),U.S.,Yes,Yes,Evening,1,50,0,TikTok,4,1.5,4.5,7.5,8,Yes,3.8,3.8,0,0,No,46
+Male,Spring,Left,Junior,College of Liberal Arts (CLA),U.S.,Yes,No,Evening,2,20,0,YouTube,4,0,4,7,8,Yes,0,3.2,0,-1,No,42
+Female,Winter,Right,Freshman,College of Biological Sciences (CBS),U.S.,No,Yes,Depends,2,30,5000,TikTok,10,1,7,6,6,Yes,3.9,3.62,0,2,Yes,43
+Female,Fall,Right,Freshman,College of Biological Sciences (CBS),U.S.,Yes,Yes,Morning,2,120,200,Instagram,4,1,8,6,10,Yes,3.7,2.5,0,0,No,62
+Female,Spring,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,No,Morning,2,52,225,Twitter,1.5,0.25,10,9,10,Yes,4,4,0,2,No,55
+Male,Summer,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,Yes,Morning,2,25,0,Instagram,2,1,6,8,7,No,3.8,3.7,0,1,No,97
+Male,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Morning,2,20,50,TikTok,3,1.5,4,9,8,Yes,3.9,3.45,2,0,Yes,60
+Male,Fall,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,No,Evening,0,22,0,YouTube,2,1,4,8,12,Not sure,3.2,3.6,0,0,No,65
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Depends,0,80,0,TikTok,3,1,4,7,8,Not sure,3.94,3.58,0,0,No,45
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,Yes,Evening,0,170,35,TikTok,4.5,1,8,7,8,Yes,4,3.762,1,0,Yes,45
+Male,Summer,Right,Sophomore,Others,U.S.,Yes,Yes,Morning,0,50,150,TikTok,3,1,5,7,9,Yes,3.8,3.6,0,0,No,63
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,Depends,1,280,100,TikTok,4,1,8,7,8,Yes,4,3.76,0,0,No,47
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Depends,1,35,0,TikTok,5,2,6,5,7,Not sure,3.98,3.654,0,0,Yes,38
+Male,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,No,Morning,0,30,0,TikTok,4,2,3,7,10,Yes,3.7,3.2,0,0,No,47
+Female,Fall,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Depends,1,38,10,YouTube,3,1,2,10,12,Yes,3.993,3,1,0,No,43
+Female,Summer,Right,Freshman,College of Biological Sciences (CBS),U.S.,No,Yes,Evening,0,176,10,TikTok,5,2,7,10,12,Yes,3.89,2.89,2,0,Yes,39
+Female,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,Yes,Evening,2,50,500,TikTok,3,1,4,8,9,Not sure,4,4,0,0,No,36
+Female,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,No,Depends,0,185,100,Instagram,2,20,3,8,8,Yes,3.6,3,0,0,Yes,29
+Female,Fall,Left,Freshman,College of Biological Sciences (CBS),U.S.,Yes,Yes,Evening,1,200,20,TikTok,5,2,3,6,8,Not sure,3.8,2.6,1,0,No,67
+Female,Summer,Right,Freshman,College of Biological Sciences (CBS),U.S.,Yes,Yes,Depends,0,50,10,TikTok,5,4,4,8,8,Yes,3.9,3.7,0,0,No,34
+Female,Summer,Left,Freshman,College of Biological Sciences (CBS),U.S.,No,Yes,Depends,1,170,0,TikTok,4,2,3,7,10,Yes,4,4,0,0,No,45
+Female,Spring,Left,Junior,Others,U.S.,Yes,No,Depends,0,170,0,TikTok,3,2,6,7,9,Yes,3.95,3.05,2,5,Yes,43
+Male,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,Evening,1,20,50,YouTube,5,1,6,7,8,Yes,3.89,3.94,0,0,No,54
+Female,Spring,Right,Sophomore,Others,U.S.,Yes,Yes,Morning,0,70,0,Instagram,3,1,4,6,6,Yes,4,3.7,2,0,No,40
+Male,Spring,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,No,Evening,1,25,0,YouTube,2,1,4,7,9,Yes,3.5,0,0,0,No,55
+Male,Winter,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,0,25,100,YouTube,2,2,6,8,8,No,3.9,3.2,0,0,Yes,70
+Male,Spring,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Morning,0,25,30,Instagram,2,1,3,7,9,Yes,3.63,3.85,0,0,No,84
+Female,Spring,Left,Others (PSEO or Post graduate),College of Biological Sciences (CBS),U.S.,Yes,No,Depends,1,130,0,Instagram,3,3,4,7,9,Yes,3.98,3.96,2,0,No,25
+Male,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,Evening,0,24,50,YouTube,2,0.75,8,7.3,7.5,Yes,3.91,3.62,0,0,No,36
+Female,Summer,Right,Junior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Morning,2,50,30,TikTok,3,2,5,6.5,9,No,3.92,3.58,0,0,No,49
+Female,Summer,Right,Junior,Others,U.S.,Yes,No,Depends,0,50,100,Instagram,0.5,7,4,8,8,Yes,3.9,3.72,7,1,No,27
+Other/Prefer not to answer,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,Yes,Evening,1,45,240,YouTube,3,1,5,8,8,Yes,3.87,3.688,2,1,No,30
+Female,Summer,Left,Sophomore,Others,U.S.,No,No,Depends,2,0,0,TikTok,2,2,4,6,7,Not sure,3.5,3.67,0,0,No,56
+Other/Prefer not to answer,Fall,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,No,Depends,0,0,50,TikTok,2,1,4,8,9,Yes,3.98,3,21,0,No,45
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Morning,1,35,1,Instagram,3,0,4,7.5,8,Not sure,3.9,3.6,0,0,Yes,36
+Female,Fall,Right,Senior,College of Liberal Arts (CLA),U.S.,Yes,No,Evening,0,35,140,Instagram,4,3,9,7,8,Yes,3.8,3.5,0,0,No,36
+Female,Spring,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Evening,0,0,0,Instagram,3,1,5,7,6,Not sure,3.8,3.4,0,0,No,22
+Female,Spring,Right,Senior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,No,Depends,1,0,0,Twitter,2,1,5,7,9,Yes,3.4,3.2,0,0,No,35
+Male,Fall,Left,Senior,College of Biological Sciences (CBS),U.S.,Yes,No,Evening,1,20,200,Instagram,3,1.5,7,5.5,7,Yes,3.8,3.52,0,0,Yes,55
+Male,Spring,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,No,No,Morning,0,18,0,Others,5,2,4,6,6,Yes,3.5,3.4,0,0,No,10
+Male,Fall,Right,Sophomore,College of Liberal Arts (CLA),International,No,No,Evening,0,35,5,Instagram,5,1,4,8,10,No,4,3.25,0,-1,No,30
+Female,Spring,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,2,230,0,Instagram,2,1,6,8,8,Yes,3.77,3.72,0,0,Yes,30
+Female,Spring,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,No,Depends,1,60,50,Instagram,1,3,3,7,9,Yes,4,3.8,4,-1,No,54
+Male,Spring,Left,Freshman,College of Biological Sciences (CBS),U.S.,Yes,Yes,Morning,0,45,20,Instagram,3,3,4,8,10,Yes,3.8,3.7,0,0,Yes,52
+Male,Fall,Right,Freshman,College of Biological Sciences (CBS),U.S.,Yes,No,Evening,0,19,100,TikTok,2,3,2,6,10,Not sure,4,3.28,0,0,No,2
+Female,Summer,Right,Others (PSEO or Post graduate),College of Liberal Arts (CLA),U.S.,Yes,No,Evening,0,40,25,Others,3,4,5,7,6,Not sure,4,0,0,0,No,24
+Male,Summer,Left,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Morning,0,27,50,Instagram,2,0,6,6,7,Yes,4,3,0,1,No,36
+Female,Spring,Right,Senior,College of Liberal Arts (CLA),U.S.,No,No,Morning,0,150,350,YouTube,2,2,4,5.5,6.5,Yes,3,3.5,0,0,No,55
+Female,Spring,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Evening,0,0,0,Instagram,6,0,6,5,10,Not sure,3.7,2.2,0,-1,No,85
+Female,Fall,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,No,Evening,0,35,10,TikTok,3,1,3,7,8,Not sure,3.2,3.4,0,0,No,39
+Female,Spring,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,Yes,Evening,0,50,0,Instagram,3,0,5,7,10,Yes,3.96,3.93,1,0,No,34
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,Yes,Morning,0,20,5,TikTok,4,1,1,7,7,Yes,3.7,3.88,0,0,Yes,45
+Male,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Morning,1,30,60,Instagram,4,0,4,8,10,Yes,3.95,3,0,0,No,42
+Female,Summer,Right,Sophomore,Others,U.S.,Yes,Yes,Evening,1,200,0,TikTok,6,1,2,8,9,No,3.45,3.47,2,0,Yes,85
+Male,Summer,Right,Junior,College of Biological Sciences (CBS),U.S.,No,Yes,Evening,0,160,100,TikTok,2.5,2,6.5,8,10,Yes,4,3.78,0,0,No,37
+Female,Fall,Right,Others (PSEO or Post graduate),Others,U.S.,Yes,No,Evening,0,180,0,TikTok,3,2,2,7,9,Yes,3.8,3.75,1,0,No,32
+Female,Spring,Left,Junior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,No,Yes,Evening,0,35,1000,TikTok,2,1,5,7,9,Yes,3.95,3.92,2,0,No,53
+Male,Fall,Right,Senior,College of Liberal Arts (CLA),U.S.,Yes,No,Evening,2,20,0,YouTube,1,1.5,5,6,5,No,3.9,3.1,2,4,No,43
+Female,Summer,Right,Sophomore,Others,U.S.,Yes,No,Evening,2,0,500,Twitter,3,0.5,2,8,8,Not sure,3.6,3.8,0,0,No,42
+Male,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Evening,0,24,50,YouTube,3,1.5,4,7,9,Not sure,3.3,3.8,0,0,No,54
+Female,Spring,Right,Senior,Others,International,No,No,Morning,0,0,100,Instagram,0,1,8,6,6,No,0,3,0,0,No,28
+Female,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,No,Depends,0,110,20,Others,4,2,6,7,8,Yes,4,3.8,0,0,Yes,39
+Female,Summer,Right,Junior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Morning,0,130,5,Twitter,9,0,4,6,9,Yes,3.77,3.2,0,0,No,33
+Male,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,Yes,Depends,0,34,0,YouTube,2,1,6,8,10,Not sure,3.8,4,0,0,No,60
+Female,Summer,Right,Sophomore,Others,U.S.,Yes,Yes,Depends,0,160,50,TikTok,3,2,4,7,6,Yes,3.8,3.5,1,0,Yes,51
+Female,Spring,Right,Freshman,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,No,Yes,Depends,0,70,250,YouTube,3,1.5,6,7,9,Not sure,4,4,1,1,No,63
+Male,Fall,Right,Sophomore,College of Science of Engineering (CSE),International,No,No,Evening,0,40,0,Others,2.5,1,3,8,8,No,0,3,0,-1,No,60
+Female,Summer,Left,Freshman,College of Biological Sciences (CBS),U.S.,No,Yes,Depends,0,120,0,TikTok,4,1,8,8,9,Not sure,4,3.78,0,0,No,24
+Female,Spring,Right,Freshman,Others,U.S.,Yes,Yes,Depends,0,25,20,Instagram,2,2,10,6,8,Not sure,4,4,0,0,Yes,37
+Female,Fall,Right,Sophomore,Others,U.S.,No,Yes,Evening,2,0,10,TikTok,3,0,3,6,10,Yes,4,2.7,6,1,No,30
+Female,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Morning,0,180,0,TikTok,3,2,10,7,10,Yes,3.8,3,3,0,Yes,56
+Male,Summer,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,No,Morning,2,50,100,TikTok,3,4,15,6,6,Yes,3.96,3.662,0,3,No,53
+Female,Fall,Right,Others (PSEO or Post graduate),Others,U.S.,Yes,No,Evening,1,0,0,Instagram,3,0,5,6,7,Not sure,3.7,0,0,0,No,42
+Female,Fall,Both,Others (PSEO or Post graduate),College of Biological Sciences (CBS),U.S.,Yes,No,Evening,0,5,0,Others,2,1,4,7,10,Yes,3.7,0,0,0,No,45
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Morning,1,30,5,TikTok,2,1,2,6,7,Yes,3.4,3,0,0,Yes,34
+Male,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,1,40,0,YouTube,1,3,3,6,8,No,3.77,3.68,0,0,No,45
+Female,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Evening,1,0,20,TikTok,5,2,7,7,10,Yes,3.6,0,12,0,No,50
+Male,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,No,Depends,0,40,70,Instagram,2,1,3,8,10,Not sure,3.6,3.4,0,1,No,36
+Female,Winter,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,0,180,10,Instagram,2,1,6,7,9,No,3.7,3.2,0,0,No,73
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Morning,1,30,100,Others,6,1,3,8,9,Yes,3.39,3.5,0,1,Yes,43
+Male,Winter,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,0,25,0,Instagram,1,2,3,7,7,Yes,4,3.691,0,0,No,31
+Male,Spring,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,1,25,0,Instagram,1.5,4,3,8,9,Not sure,3.75,3.5,0,0,No,36
+Male,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,Yes,Evening,1,0,0,YouTube,2,1,4,7,8,Yes,3.5,3,0,0,Yes,29
+Female,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,Yes,Depends,0,224,0,TikTok,6,2,3.5,7,10,No,3.6,3.4,0,2,No,35
+Female,Fall,Right,Freshman,College of Biological Sciences (CBS),U.S.,Yes,Yes,Evening,2,70,0,Instagram,2,3,2,8,7,Not sure,3.99,3.98,0,0,Yes,60
+Female,Summer,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,No,Evening,0,80,30,TikTok,2,1,5,7,7,Yes,3.5,3.3,0,1,Yes,36
+Female,Summer,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Depends,2,100,0,TikTok,1,1,3,9,9,Yes,3.8,3.4,2,0,No,39
+Female,Fall,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,Yes,Depends,0,57.6,30,YouTube,5,0,4,7,8,Yes,3.89,3.2,3,0,Yes,70
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Morning,1,25,500,Instagram,1,2,4,8,8,Not sure,3.93,4,0,1,Yes,40
+Female,Spring,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,No,Evening,2,0,0,Instagram,5,1,5,8,10,Not sure,3.7,3.404,0,0,No,38
+Male,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Morning,0,48,0,TikTok,5,1,3,7,10,Yes,3.78,3.53,0,0,No,34
+Male,Fall,Left,Junior,Others,U.S.,Yes,Yes,Morning,0,25,0,TikTok,2,1,4,6,6,Yes,3.1,3.2,0,0,No,45
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Depends,0,70,0,TikTok,4,2.5,5,5,6,Yes,3.89,0,0,0,Yes,42
+Female,Summer,Right,Junior,College of Liberal Arts (CLA),U.S.,No,Yes,Evening,1,46,30,Instagram,4,1.5,8,6,8,Yes,4,3.7,0,0,No,47
+Female,Spring,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,No,Depends,0,15,0,TikTok,6,1,3,9,9,Yes,3.968,3.5,1,0,Yes,65
+Female,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Evening,1,70,60,Others,2,1.5,5,8,8,Yes,4,3.8,0,0,No,34
+Male,Winter,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,Yes,Depends,1,45,50,Instagram,5,2,2,8,8,Yes,3.9,3.58,0,1,No,42
+Female,Summer,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,No,Yes,Depends,3,245,450,TikTok,4,1,3,5,11,Yes,4,2.8,0,0,Yes,47
+Male,Winter,Right,Freshman,College of Biological Sciences (CBS),U.S.,No,Yes,Depends,0,23,5,Instagram,2,1,3,7,6,No,4,3.917,0,0,No,50
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Evening,1,130,80,TikTok,3,2,4,7,9,Yes,3.98,3.5,0,0,No,32
+Male,Spring,Left,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",International,No,No,Depends,1,40,0,Others,0.5,1,3,8,10,No,3.8,3.5,0,1,No,30
+Male,Fall,Left,Freshman,College of Biological Sciences (CBS),U.S.,Yes,Yes,Morning,0,24,10,Twitter,0,2,10,7.5,7,No,3.921,3.646,0,1,No,48
+Female,Fall,Right,Freshman,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,No,Yes,Depends,1,60,50,TikTok,4,1.5,3,7,8,Yes,3.8,3.8,0,0,No,24
+Male,Fall,Right,Junior,College of Liberal Arts (CLA),U.S.,No,No,Depends,0,35,0,YouTube,1,1,6,7,9,Yes,2.1,3.8,0,1,No,45
+Male,Spring,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,No,Depends,1,20,100,Others,1.5,1.5,3,7,7,Yes,3.6,3.5,2,2,No,36
+Male,Spring,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,No,Evening,1,45,0,YouTube,4,1,4,7,8,Not sure,2.5,2.7,0,2,Yes,46
+Female,Summer,Left,Freshman,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Evening,1,150,100,Instagram,2,2,6,9,7,Yes,3.9,3.5,0,1,No,40
+Male,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,Yes,Evening,0,12,0,Instagram,2,2,5,7,10,Not sure,3,3.2,0,0,No,90
+Female,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,No,Depends,2,100,0,Instagram,7,3,5,7,8,Not sure,3.9,3.8,0,-1,No,35
+Male,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,No,Depends,0,57,0,YouTube,3,2,4,8,9,Yes,3.8,3.7,5,2,No,41
+Female,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Evening,0,50,100,TikTok,4,2,4,6,8,No,3.98,3.7,0,-1,No,80
+Female,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,1,0,15,TikTok,3,0,2,7,9,Yes,3.6,3.6,0,0,No,52
+Male,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,No,Depends,3,15,100,Twitter,4,2,8,8,10,Not sure,3.3,2.3,0,-1,No,33
+Female,Fall,Right,Sophomore,Others,U.S.,Yes,Yes,Evening,0,140,5,Instagram,4,1,3,8,9,Not sure,3.5,3.3,1,0,No,80
+Female,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,0,60,0,TikTok,5,1,5,7,9,Yes,3.987,3.85,2,1,Yes,54
+Other/Prefer not to answer,Winter,Right,Freshman,College of Science of Engineering (CSE),U.S.,Yes,Yes,Evening,1,18,0,Instagram,1,0.5,1.5,8.5,9.5,Yes,4,3.7,0,0,No,75
+Female,Fall,Left,Freshman,College of Liberal Arts (CLA),U.S.,No,Yes,Evening,1,25,0,TikTok,2.5,1,2.5,7.5,8,Yes,3.588,4,0,0,No,47
+Female,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Morning,0,200,30,TikTok,2,1,6,7,8,Yes,3.9,3.6,4,0,No,36
+Male,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,No,Depends,1,45,0,Instagram,6,2,5,6,8,No,3.2,3.2,0,1,Yes,56
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,No,Depends,1,80,100,TikTok,4,1,5,9,8,Yes,3.8,3.5,2,0,No,27
+Female,Winter,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Evening,2,0,50,YouTube,10,0,12,7,9,Not sure,3.8,3.2,0,0,No,73
+Other/Prefer not to answer,Spring,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Evening,0,0,0,Twitter,1.5,0,4,7,9,Yes,3.5,4,1,0,Yes,35
+Male,Spring,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,No,Evening,0,20,6,Instagram,5,1,3,7,8,Yes,4,3.5,0,0,No,50
+Male,Fall,Both,Sophomore,College of Liberal Arts (CLA),International,Yes,Yes,Depends,0,35,60,Others,3,0,4,6,9,Not sure,3.84,3.7,0,-1,No,30
+Female,Spring,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,No,Depends,1,30,0,YouTube,4,1.5,3.5,7,9,Yes,4,3.7,1,-1,No,53
+Male,Summer,Right,Freshman,Others,U.S.,Yes,No,Evening,0,45,50,Instagram,5,2,8,6,15,Yes,3.5,4,4,0,Yes,30
+Female,Summer,Right,Freshman,Others,U.S.,Yes,Yes,Depends,0,20,100,Instagram,4,2,4,8,9,Not sure,4,3.6,0,0,Yes,40
+Female,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Evening,0,200,0,TikTok,5,2,2,8,9,Yes,3.8,0,0,0,Yes,38
+Male,Summer,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,No,Morning,0,33,0,YouTube,6,2,3,8,5,Yes,0,0,8,1,Yes,40
+Male,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,No,Evening,0,17,0,Others,2,1,3,7,8,No,3.7,3.6,0,0,Yes,45
+Female,Spring,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,No,Depends,1,18,0,Others,4,1,6,5,7,No,3.7,3.5,0,0,No,42
+Female,Fall,Right,Freshman,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Depends,1,20,5,Others,3,1,2.5,7,8,Not sure,3.7,3.72,0,0,No,68
+Male,Winter,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,No,Depends,0,26,0,TikTok,3,1,3,7,10,Yes,3.5,2.5,0,2,No,40
+Male,Summer,Left,Junior,College of Liberal Arts (CLA),U.S.,Yes,No,Depends,0,25,10,YouTube,6,1,6,6,9,Yes,3,3.5,0,1,No,20
+Male,Winter,Right,Senior,College of Liberal Arts (CLA),U.S.,No,No,Depends,1,22,0,TikTok,3,2,1,5,8,Yes,3.6,2.95,0,0,Yes,32
+Male,Summer,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Morning,0,25,0,YouTube,2,1,4,8,9,No,3.98,3.88,0,0,Yes,40
+Male,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Morning,0,22,30,Others,3,2,3,9,9,Yes,3.72,2.8,0,1,No,112
+Female,Fall,Right,Freshman,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,No,Yes,Depends,0,250,0,TikTok,4,1,3,8,8,No,3.97,3.25,1,0,Yes,37
+Female,Summer,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,Yes,Depends,1,35,0,Instagram,3,1,5,6,9,Yes,4,4,0,1,No,74
+Other/Prefer not to answer,Winter,Right,Freshman,College of Science of Engineering (CSE),U.S.,No,Yes,Evening,0,0,0,Others,2,1,5,7,9,Yes,4,3.6,0,0,No,45
+Other/Prefer not to answer,Spring,Right,Freshman,College of Biological Sciences (CBS),U.S.,Yes,Yes,Evening,0,40,50,Instagram,2,0.5,10,9,11,Yes,3.89,3.4,0,0,No,40
+Female,Summer,Right,Freshman,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,No,Yes,Morning,0,100,20,YouTube,3,1,8,8,8,Not sure,3.9,3.9,0,0,No,50
+Female,Fall,Right,Freshman,College of Biological Sciences (CBS),U.S.,No,Yes,Evening,0,103,0,TikTok,2,1,6,7,7.5,Yes,3.77,3.8,1,1,No,28
+Female,Summer,Right,Freshman,College of Biological Sciences (CBS),U.S.,Yes,Yes,Depends,0,60,0,TikTok,5,0.5,3,7,8,Yes,3.95,3.5,0,0,No,34
+Male,Fall,Right,Senior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,No,No,Morning,1,25,0,Instagram,1,1,3,8,8,Yes,3.7,3.5,4,1,No,81
+Male,Fall,Right,Junior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,No,Evening,1,20,0,YouTube,5,0,3,7,8,Yes,3.5,3.4,1,0,Yes,30
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Evening,2,105,20,Instagram,2,3,10,7,9,Yes,4,3.7,2,0,No,37
+Male,Summer,Right,Senior,College of Biological Sciences (CBS),U.S.,Yes,No,Evening,2,40,50,YouTube,3,1,10,8,9,Yes,4,3.6,1,0,No,45
+Male,Fall,Right,Junior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,No,No,Depends,0,25,0,TikTok,3,1,4,7,8,Yes,3.97,3.98,0,0,No,67
+Female,Fall,Right,Freshman,College of Biological Sciences (CBS),U.S.,No,Yes,Depends,0,40,0,TikTok,4,1,12,7,10,Yes,4,3.625,0,0,Yes,58
+Female,Summer,Right,Senior,College of Biological Sciences (CBS),U.S.,Yes,Yes,Morning,3,135,500,YouTube,4,1,3,7,6,No,3.6,3.5,0,0,No,42
+Female,Summer,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,No,Evening,0,300,0,YouTube,2,1,4,8,8,Yes,0,3.86,0,4,No,48
+Female,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,No,Yes,Evening,0,75,0,TikTok,2,1,2,8,8,Yes,3.7,3.7,0,1,No,64
+Female,Fall,Right,Freshman,College of Science of Engineering (CSE),U.S.,No,Yes,Evening,0,80,30,Instagram,2,1,10,8,6,Not sure,3.9,3.57,1,0,No,30
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,No,Morning,0,20,20,TikTok,2,1,10,7.5,8,Yes,3.99,3.673,0,0,No,144
+Male,Winter,Right,Freshman,Others,U.S.,No,Yes,Depends,0,30,0,Instagram,3,2,4,8,10,Not sure,3.97,3.667,0,0,No,63
+Male,Fall,Right,Freshman,College of Science of Engineering (CSE),U.S.,Yes,No,Depends,1,25,30,YouTube,6,0,7,8,10,Not sure,3.8,3.7,0,0,No,30
+Female,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,2,140,20,TikTok,4,1,5,6,9,Yes,3.8,3.21,0,-1,No,46
+Female,Summer,Left,Freshman,College of Biological Sciences (CBS),U.S.,Yes,Yes,Evening,2,25,20,TikTok,1,1.5,8,8,10,Yes,4,4,1,0,No,63
+Male,Fall,Right,Freshman,College of Liberal Arts (CLA),International,No,Yes,Depends,0,40,0,Instagram,2,3,3,8,9,No,3.4,2.88,0,-1,No,37
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,Yes,Depends,1,75,0,Others,1.5,1,6,7,8,Yes,4,3.632,1,-1,No,48
+Male,Summer,Right,Freshman,College of Biological Sciences (CBS),U.S.,Yes,Yes,Depends,0,40,0,TikTok,3,1,4,8,8,Yes,4,4,0,0,Yes,48
+Female,Spring,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,1,70,15,YouTube,2,0.5,7,8.5,7,Yes,3.9,3,4,0,Yes,88
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,1,20,0,TikTok,4,1,2,7,8,Yes,3.7,0,0,1,No,32
+Female,Fall,Right,Freshman,College of Science of Engineering (CSE),U.S.,No,Yes,Evening,0,85,20,Twitter,1,3,2,9,10,Yes,3.97,3.3,0,0,No,76
+Male,Summer,Right,Freshman,College of Biological Sciences (CBS),U.S.,Yes,Yes,Evening,0,30,100,YouTube,2,1,4,8,9,No,3.8,2.7,0,-1,No,68
+Male,Fall,Right,Junior,College of Science of Engineering (CSE),U.S.,Yes,No,Evening,1,0,6,YouTube,6,1,3,7,7,No,3.76,3.316,0,0,No,46
+Male,Summer,Right,Sophomore,Others,U.S.,Yes,No,Evening,0,29,0,Instagram,2,1,6,8,8,Yes,3.97,0,0,1,No,48
+Other/Prefer not to answer,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Depends,2,12,0,TikTok,5,0,6,9,11,Yes,4,3.9,0,0,No,42
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Morning,1,36,0,TikTok,7,2,2,9,11,Yes,3.6,2.5,0,1,No,74
+Female,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,Yes,Evening,0,25,50,Instagram,4,1,4,6.5,9,Yes,4,4,0,2,No,42
+Male,Fall,Left,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Morning,1,13.99,10,YouTube,4,1,3,8,10,Yes,3.5,0,0,0,No,37
+Female,Spring,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,Yes,Evening,1,30,100,Instagram,1,1.5,8,6,6,Yes,3.9,3.2,1,0,No,47
+Female,Summer,Right,Others (PSEO or Post graduate),Others,U.S.,Yes,No,Evening,0,10,0,WhatsApp,1.5,0.5,3,8,8,No,4,4,0,0,No,40
+Male,Fall,Right,Junior,Others,U.S.,Yes,Yes,Depends,0,20,0,YouTube,6,1.5,2,7,8.5,Yes,3.87,3.81,0,0,No,38
+Male,Fall,Right,Senior,Others,U.S.,Yes,No,Morning,0,22,0,TikTok,2,1,3,7,6,Yes,3.7,3.4,0,0,No,50
+Female,Winter,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,No,Morning,1,20,2,Twitter,7,0,4,7,9,No,3.6,2.1,0,0,No,45
+Female,Spring,Left,Others (PSEO or Post graduate),Others,U.S.,Yes,No,Evening,0,80,300,TikTok,6,0,6,8,10,Not sure,3.995,3.902,0,0,No,45
+Male,Fall,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,4,30,1000,TikTok,1,2,3,5,6,Not sure,3.3,3.2,2,0,No,41
+Male,Fall,Right,Junior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,No,Depends,1,30,200,Instagram,1,1.5,5,7.5,8,Not sure,4,3.9,0,1,No,43
+Male,Summer,Right,Freshman,College of Biological Sciences (CBS),U.S.,Yes,No,Morning,2,30,20,YouTube,3,1,5,7,10,Yes,3.87,3.67,0,0,No,75
+Male,Spring,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,2,40,25,TikTok,3,1,3,9,10,Yes,4,3.8,0,0,No,48
+Female,Summer,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,No,No,Evening,1,90,100,TikTok,4,1,5,8,10,Yes,3.98,3.17,0,0,No,43
+Female,Spring,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,Yes,Depends,1,0,0,TikTok,3,2,6,8,9,Yes,3.9,3.1,4,0,No,54
+Female,Fall,Right,Junior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,No,Depends,0,0,50,Instagram,2,1,6,8,9,Yes,3.9,3.7,1,0,No,160
+Female,Fall,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Evening,1,25,0,Instagram,2,1.5,5,6,10,Not sure,3.9,3.8,0,0,No,50
+Female,Fall,Right,Freshman,College of Biological Sciences (CBS),U.S.,No,Yes,Depends,0,0,0,TikTok,3,1,8,8,8,Yes,4,3.4,0,0,Yes,42
+Female,Fall,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,No,Yes,Morning,2,30,0,TikTok,5,2,5,8,9,Yes,3.7,3.7,1,0,No,42
+Male,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,1,40,25,TikTok,3,1,2,8,10,Yes,3.8,3.1,0,0,Yes,69
+Female,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,Yes,Depends,1,28,100,TikTok,3,1,5,7,8,Yes,3.9,3.5,1,0,No,70
+Male,Winter,Right,Freshman,College of Biological Sciences (CBS),U.S.,Yes,Yes,Depends,0,20,0,TikTok,6,0,3,8,9,Not sure,3.92,2.81,0,0,No,32
+Female,Spring,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Evening,1,50,50,TikTok,6,1,5,20,14,Yes,3.5,2.6,0,0,No,40
+Female,Summer,Right,Junior,College of Science of Engineering (CSE),U.S.,Yes,Yes,Evening,1,450,0,TikTok,2,1,7,5,8,Yes,3.7,2.85,0,1,No,55
+Female,Fall,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,Yes,Morning,0,20,250,YouTube,2,1,5,6,7,No,4,3.9,0,0,No,56
+Male,Summer,Right,Senior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,No,Morning,0,20,0,Twitter,2,1,2,8,10,Yes,3.3,3,0,0,Yes,30
+Male,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Morning,1,20,50,TikTok,3,2,5,7,7,Not sure,3.8,3.55,0,0,Yes,46
+Female,Spring,Left,Freshman,College of Biological Sciences (CBS),U.S.,Yes,No,Depends,1,20,0,TikTok,1,1,6,6,9,Yes,0,0,0,0,No,42
+Male,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,No,Depends,1,40,50,YouTube,5,2,3,7,8,Yes,3.7,0,0,4,No,72
+Male,Summer,Right,Freshman,College of Biological Sciences (CBS),U.S.,Yes,Yes,Depends,0,20,20,Instagram,4,3,3,7,9,Not sure,3.8,2.8,0,0,No,30
+Female,Winter,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,1,130,0,Facebook,4,1,8,7,10,Not sure,3.89,3.9,0,0,No,40
+Male,Spring,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Depends,0,20,0,Twitter,3,1,4,7,9,Yes,3.9,4,0,0,No,50
+Male,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Morning,1,20,0,YouTube,0.5,1,8,8,8,No,4,4,0,0,No,40
+Male,Summer,Right,Freshman,College of Biological Sciences (CBS),U.S.,Yes,Yes,Evening,0,30,50,YouTube,3,1,4,8,9,No,3.8,2.525,0,-1,No,50
+Female,Summer,Left,Sophomore,College of Biological Sciences (CBS),U.S.,No,Yes,Evening,1,40,0,Others,6,0,12,8,8,Yes,4,3.659,1,2,Yes,36
+Male,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Morning,1,40,2,TikTok,2,2,4,8,8,Not sure,3.8,2.8,0,0,No,26
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,Evening,0,45,100,TikTok,5,1,2,7,10,Yes,3.99,3.889,0,0,No,48
+Male,Winter,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,0,40,5,YouTube,5,1,3,8,10,Yes,3.7,3.74,0,-1,No,63
+Female,Summer,Right,Freshman,Others,U.S.,No,Yes,Evening,0,200,300,Instagram,4,2,6,9,9,Not sure,4,3.85,0,0,No,55
+Female,Winter,Right,Junior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Depends,2,49,0,YouTube,1.5,0.5,6,9,10,Not sure,0,3.559,1,1,No,32
+Female,Summer,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,No,Evening,0,200,0,TikTok,4,0.5,5,8,8,Yes,3.44,3.39,0,0,No,79
+Female,Fall,Both,Junior,College of Biological Sciences (CBS),U.S.,No,No,Depends,0,55,150,Twitter,3,1.5,7,5,7,Yes,3.97,3.3,1,0,No,64
+Male,Fall,Right,Freshman,College of Science of Engineering (CSE),U.S.,No,Yes,Morning,1,25,0,Instagram,3,1,6,7,9,Yes,3.89,3.47,0,0,No,49
+Male,Winter,Right,Freshman,Others,U.S.,No,Yes,Morning,1,50,100,Instagram,0.5,3,8,9,10,Yes,3.65,2.5,0,0,No,46
+Male,Fall,Right,Sophomore,College of Science of Engineering (CSE),International,No,No,Evening,1,35,50,Others,2,2,4,8,8,Yes,3.8,3.6,0,-1,No,70
+Male,Spring,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Morning,1,20,10,WhatsApp,2,2,5,6,7,Yes,3.98,4,0,0,No,22
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,0,20,0,YouTube,2,1,3,8,10,Yes,3.89,4,0,0,No,60
+Male,Summer,Left,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,0,35,0,TikTok,3,1,2,7,9,Yes,3.8,2.5,0,1,No,70
+Male,Spring,Right,Junior,College of Liberal Arts (CLA),International,No,Yes,Morning,0,180,0,YouTube,8,0,3,7,8,Yes,3.52,3.77,0,0,Yes,80
+Male,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,No,Evening,0,30,0,Twitter,2,0.5,7,7.5,9,Yes,3.75,3.5,0,0,No,45
+Female,Summer,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,No,No,Morning,0,100,5,TikTok,3,7,6,8,9,No,3.82,3.667,0,0,No,34
+Female,Spring,Right,Junior,Others,U.S.,No,No,Depends,0,200,0,TikTok,3,2,5,7,5,Yes,3.6,3.2,6,1,Yes,56
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,Evening,0,50,5,TikTok,8,2,4,7,9,Not sure,4,3.5,0,0,Yes,36
+Male,Spring,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,No,Depends,0,15,100,Instagram,3,2,4,7,8,Yes,3.8,2.6,0,0,No,33
+Female,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,1,30,5,TikTok,5,1,6,7,9,Yes,4,3.9,2,0,No,43
+Female,Winter,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Evening,1,70,0,YouTube,6,1,3,6,8,Not sure,3.9,3.7,0,0,No,55
+Female,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,Yes,Evening,1,80,20,TikTok,4,1,4,7,10,Yes,3.6,3.4,0,0,No,48
+Other/Prefer not to answer,Summer,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,No,Prefer not to answer,Morning,0,110,5,TikTok,5,0,3,7,8,Yes,3.8,3.8,1,0,No,68
+Female,Fall,Right,Junior,College of Biological Sciences (CBS),U.S.,No,No,Evening,2,20,20,Instagram,2,0,3,9,11,Yes,3.8,3.3,2,2,No,48
+Male,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Evening,0,0,14.95,YouTube,2,0,15,6,10,Yes,3.8,4,0,-1,No,40
+Male,Summer,Right,Others (PSEO or Post graduate),"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,No,No,Morning,1,30,0,Facebook,2,0,10,6,7,Yes,3.2,4,0,4,No,38
+Female,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,1,50,0,Instagram,4,1,4,7,7,Not sure,3.2,2,0,0,No,38
+Female,Fall,Right,Senior,College of Liberal Arts (CLA),U.S.,Yes,Yes,Evening,1,0,100,Others,2,2,5,6.5,5,Not sure,3.7,2.5,2,0,No,25
+Male,Winter,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,No,Evening,1,25,0,YouTube,3,2,4,7,9,Not sure,3.8,3.2,0,1,No,35
+Female,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,0,115,20,TikTok,5,0,5,9,7,Yes,3.6,2.533,0,1,No,36
+Female,Spring,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Depends,1,24,50,Instagram,2,2,4,8,8,Yes,3.7,3.1,0,0,No,37
+Female,Spring,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,Yes,Depends,1,144,0,YouTube,3,0,4,8,9,Not sure,3.79,3.45,0,1,No,32
+Female,Fall,Right,Senior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,No,No,Depends,0,45,10,TikTok,3,1,4,8,10,Not sure,4,3.5,0,3,Yes,23
+Male,Summer,Left,Freshman,Others,U.S.,Yes,No,Evening,0,150,0,TikTok,3,1,3,6,7,Not sure,3.98,3.99,0,0,No,30
+Male,Spring,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Evening,0,15,100,YouTube,1,3,3,7,9,Yes,3.9,3.2,0,-1,No,44
+Male,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,Morning,1,30,50,Instagram,2,1,3,6.5,7,Yes,3.5,3.8,0,0,Yes,56
+Male,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,No,Depends,1,85,0,TikTok,10,2,3,7,8,Yes,3.6,3.5,0,0,Yes,25
+Female,Spring,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Depends,1,250,0,TikTok,2,1.5,5,7,9,Not sure,3.8,3.56,0,0,No,22
+Female,Fall,Left,Freshman,College of Liberal Arts (CLA),U.S.,No,Yes,Depends,0,23,100,TikTok,5,0,3,8,9,Yes,3.6,2.9,0,0,Yes,43
+Female,Spring,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,Yes,Morning,1,0,0,TikTok,4,0.5,5,7,9,Yes,3.95,3.7,1,0,No,64
+Female,Summer,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,Yes,Morning,1,0,0,YouTube,3,3,3,9,9,Yes,3.96,3.7,0,-1,No,69
+Male,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,Evening,0,15,0,TikTok,3,2,5,9,10,No,3.97,3.7,0,0,Yes,45
+Male,Summer,Right,Sophomore,Others,U.S.,Yes,Yes,Morning,2,40,0,Instagram,3,2,3,8,8,Not sure,3.7,3.2,0,0,No,42
+Female,Fall,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,No,Depends,1,0,50,YouTube,2,1,5,5,7,Yes,4,3,3,0,No,30
+Male,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Depends,1,25,15,Instagram,3,2,5,6,7,Not sure,3.9,3.5,0,0,No,37
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,1,24,15,Instagram,2,2,6,7,7,Not sure,3.7,3.4,0,0,No,50
+Male,Summer,Right,Junior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Depends,1,40,0,Instagram,5,1.5,6,8,8,Yes,3.7,2.6,3,0,No,48
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,Yes,Depends,0,40,200,Instagram,1.5,2,2.5,8,9,Yes,3.5,3.5,0,2,Yes,80
+Male,Fall,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Depends,0,30,0,YouTube,4,0.5,2,5,14,Yes,3.1,2.3,0,0,No,46
+Female,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Morning,0,70,20,TikTok,2,1,3,7,8,Yes,3.9,3.9,0,0,No,42
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Morning,2,20,40,Others,4,1,4,7,8,Yes,3.85,4,0,0,Yes,40
+Female,Summer,Left,Sophomore,College of Liberal Arts (CLA),U.S.,No,No,Depends,0,120,0,TikTok,2,1,8,5,9,Not sure,3.8,3.045,0,-1,No,53
+Male,Summer,Right,Junior,Others,U.S.,Yes,No,Depends,0,40,30,Instagram,4,2,3,7,8,Yes,3.6,0,0,1,No,27
+Female,Spring,Left,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Evening,1,60,100,TikTok,4,0,4,9,11,No,3.5,3.9,0,0,No,74
+Male,Fall,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,No,No,Depends,0,17,0,YouTube,5,2,6,7,10,No,3.69,3.64,0,0,No,40
+Female,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,No,Evening,0,88,0,TikTok,5,1.5,5,6,9,Yes,3.85,4,0,1,No,46
+Male,Spring,Right,Sophomore,Others,U.S.,Yes,Yes,Morning,0,50,0,Instagram,2,1,3,6,5,Yes,3.3,2.7,0,0,No,46
+Male,Winter,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Evening,0,10,50,Instagram,2,1,2,9,10,Yes,3.67,3.58,0,0,No,33
+Male,Winter,Right,Junior,College of Biological Sciences (CBS),U.S.,No,Yes,Depends,3,20,50,Others,2,2,4,7,8,Yes,3.92,0,0,0,Yes,35
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),International,No,No,Depends,0,0,0,Instagram,5,2,3,8,11,Not sure,3,0,0,-1,No,45
+Male,Winter,Left,Senior,College of Liberal Arts (CLA),U.S.,Yes,No,Evening,2,31,200,Others,3,1.5,2,7,7,Yes,3.8,3.2,1,0,No,42
+Female,Fall,Right,Senior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,No,Depends,0,0,0,Instagram,1,0.5,2,10,10,Yes,0,3.7,21,4,No,60
+Male,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,No,Evening,1,35,20,Instagram,6,2,20,24,7,Yes,3.7,3.2,0,0,Yes,50
+Male,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,2,50,100,Others,4,5,10,8,7,Yes,3.3,2.8,3,1,Yes,68
+Male,Summer,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,No,Depends,1,10,575,YouTube,5,1,3,5,14,Yes,3.6,3.4,0,0,No,44
+Female,Spring,Right,Freshman,College of Biological Sciences (CBS),U.S.,Yes,Yes,Evening,1,40,10,Others,2,1,4,5,7,Yes,4,3.99,0,0,No,73
+Male,Spring,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Morning,2,40,20,TikTok,3,1,4,8,10,Yes,4,3.8,0,0,No,48
+Male,Fall,Right,Junior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Depends,0,0,200,Instagram,5,1,5,6,8,Yes,3.4,3,2,1,No,32
+Male,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,0,30,0,YouTube,3,1,5,7,8,Yes,3.8,3.2,0,0,No,38
+Female,Summer,Right,Sophomore,Others,U.S.,Yes,Yes,Depends,1,100,20,Instagram,5,0,6,8,10,Not sure,4,3.5,0,0,No,57
+Female,Winter,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,Yes,Depends,1,25,10,TikTok,5,1,3,8,9,Yes,3.9,3,0,0,No,42
+Female,Fall,Right,Junior,College of Biological Sciences (CBS),U.S.,No,No,Depends,0,22,5,Instagram,8,1,6,6,10,Yes,4,2.8,7,3,Yes,34
+Male,Summer,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Evening,3,25,20,Instagram,3,2,6,6,7,Yes,3.8,3.8,1,0,No,58
+Male,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,No,Morning,0,50,100,YouTube,4,2,3,5,4,Yes,4,4,0,1,Yes,65
+Female,Fall,Left,Sophomore,College of Biological Sciences (CBS),U.S.,No,No,Evening,0,50,20,TikTok,2,0,4,9,9,Yes,4,3.3,3,0,No,56
+Female,Fall,Right,Junior,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,No,No,Depends,1,40,30,TikTok,4,1,3,8,10,Yes,3.9,3.5,0,1,No,61
+Male,Fall,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,No,No,Morning,1,20,15,Instagram,4,2,5,7,7,Yes,3.67,3.2,2,2,No,45
+Male,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,0,25,0,YouTube,2,1,3,6,10,Yes,3.79,3.04,0,0,No,72
+Female,Spring,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Evening,2,100,5,TikTok,3,1,4,7,9,Not sure,3.92,3.1,0,0,No,40
+Female,Winter,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,No,Morning,0,60,0,TikTok,4,2,4,7,7,Yes,4,3.5,3,3,No,60
+Female,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,Yes,Morning,0,17,5,TikTok,2,0.5,4,8,9,Not sure,3.995,3.882,1,0,No,48
+Male,Fall,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,Morning,0,30,10,Instagram,4,2,10,7,10,Yes,3.6,3,0,1,Yes,35
+Female,Summer,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,No,Evening,1,45,0,TikTok,3,1,4,7,8,Yes,3.5,3,0,0,No,43
+Female,Spring,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,No,Evening,2,0,0,Twitter,4,1,5,6,8,Yes,4,3.2,3,0,No,30
+Female,Fall,Right,Freshman,College of Science of Engineering (CSE),U.S.,No,Yes,Depends,2,60,30,TikTok,4,2,6,6,8,Yes,3.98,2.82,0,0,Yes,27
+Female,Fall,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,No,Morning,0,20,0,TikTok,1,0.5,3,7,9,Yes,3.54,3,0,0,No,29
+Male,Summer,Right,Others (PSEO or Post graduate),Prefer not to answer,U.S.,Yes,No,Evening,0,25,0,TikTok,2,2,3,6,8,Yes,3.9,3.6,0,1,No,46
+Female,Fall,Left,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Evening,1,150,30,TikTok,3,1,7,7,9,Yes,3.7,3.5,0,0,Yes,45
+Other/Prefer not to answer,Spring,Right,Junior,College of Biological Sciences (CBS),U.S.,No,No,Depends,1,26,0,YouTube,1,1.5,8,7,10,Yes,4,3,0,0,No,53
+Female,Fall,Right,Sophomore,College of Liberal Arts (CLA),U.S.,Yes,No,Evening,0,0,0,Others,5,1,4,7,8,Not sure,3.8,2.4,0,-1,No,50
+Female,Summer,Right,Junior,Prefer not to answer,U.S.,Yes,No,Depends,0,55,10,TikTok,2,1,6,7,8,Yes,3.26,2.78,10,2,No,42
+Male,Summer,Right,Junior,College of Liberal Arts (CLA),U.S.,No,No,Depends,0,50,25,Others,2,1,4,8,10,Yes,3.25,3.19,0,0,No,39
+Female,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Evening,1,15,0,Instagram,2,4,4,7,8,No,3.5,3.5,0,0,No,36
+Female,Summer,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,Evening,0,150,10,TikTok,4,2,6,8,10,Yes,4,3.6,0,0,Yes,40
+Female,Fall,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,Yes,Depends,0,50,0,TikTok,5,4,12,7,9,Not sure,4,3.67,0,0,No,60
+Female,Summer,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,Yes,Evening,0,33,0,TikTok,5,1,5,9,5,No,3.6,3,1,1,Yes,50
+Male,Fall,Right,Junior,College of Biological Sciences (CBS),U.S.,No,No,Depends,0,45,50,YouTube,2,0.25,3,7,8,Not sure,2.4,3.7,1,4,No,61
+Female,Fall,Right,Freshman,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",U.S.,Yes,No,Depends,0,70,0,TikTok,1,0.75,4,6,8,Yes,3.8,0,23,1,No,42
+Female,Spring,Right,Junior,College of Biological Sciences (CBS),U.S.,Yes,Yes,Morning,1,0,0,YouTube,4,3,10,7,8,Yes,4,3.1,0,-1,No,50
+Female,Fall,Right,Sophomore,College of Biological Sciences (CBS),U.S.,No,Yes,Depends,1,40,120,TikTok,2,0.5,4,8,9,Not sure,3.8,3,0,0,No,45
+Female,Summer,Right,Junior,College of Liberal Arts (CLA),U.S.,Yes,Yes,Evening,0,90,15,TikTok,4,2,12,9,10,Yes,3.4,2.7,0,1,No,100
+Male,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,No,Evening,0,0,3,YouTube,4,1,4,5,8,Not sure,3.85,3.05,0,0,No,84
+Male,Summer,Right,Freshman,Others,U.S.,Yes,Yes,Morning,0,25,40,TikTok,4,2,3,6,10,Yes,3.8,3.8,0,1,No,38
+Male,Fall,Right,Sophomore,"College of Food, Agricultural and Natural Resource Sciences (CFANS)",International,No,No,Evening,1,20,0,Instagram,2,0.5,2,6,7,Yes,3.5,3.6,0,0,No,65
+Male,Fall,Right,Freshman,Others,U.S.,Yes,Yes,Evening,1,35,200,Instagram,3,2,2,8,9,Yes,3.83,3.3,0,2,No,42
+Female,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,No,Depends,0,0,0,TikTok,3.5,0,6,10,12,Yes,0,3.2,0,0,No,48
+Male,Winter,Right,Sophomore,College of Science of Engineering (CSE),U.S.,Yes,No,Morning,0,20,0,YouTube,1,2,5,7.5,8,Not sure,3.5,3,0,0,No,60
+Male,Fall,Right,Freshman,College of Liberal Arts (CLA),U.S.,No,Yes,Morning,1,30,100,YouTube,3,1,2,8,9,Yes,3.7,3.9,0,2,No,43
+Female,Summer,Right,Freshman,College of Liberal Arts (CLA),U.S.,Yes,Yes,Depends,0,90,10,TikTok,4,1,4,9,11,Not sure,3.56,3.71,0,0,Yes,62
+Male,Winter,Left,Freshman,College of Liberal Arts (CLA),U.S.,No,Yes,Morning,0,35,0,Twitter,4,13,4,7,7,Yes,3.8,3.4,0,0,No,67
+Male,Summer,Right,Sophomore,College of Biological Sciences (CBS),U.S.,Yes,Yes,Morning,1,50,100,Instagram,5,2,5,6,8,Yes,4,3.2,0,1,No,33
+Male,Summer,Right,Junior,College of Liberal Arts (CLA),U.S.,No,Yes,Morning,0,25,0,Instagram,3,1,4,7,9,Yes,3.4,3.6,1,0,No,74
